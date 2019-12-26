@@ -1,0 +1,29 @@
+Photoshop Reimagined for iPad: Introducing Select Subject
+We gave you a sneak peek of this feature on the iPad as part of the Adobe MAX keynote presentation a few weeks ago. There is no other iPad app on the market with this type of powerful yet easy to use selection capability.
+
+Select Subject uses the Adobe Sensei AI machine learning technology to enable you to automatically select the subject of an image to speed up complex selections. Each of the selections you see in this blog post were made with one tap, with no additional selections or fine-tuning enhancements. Try it out.
+This feature on the iPad works exactly the same as on Photoshop on the desktop and produces the same results, vastly enhancing selection capabilities and speed available on the iPad. With cloud documents, you can make a selection on the desktop or the iPad and continue your work seamlessly using Photoshop on another device with no loss of fidelity; no imports or exports required. We originally released Select Subject in Photoshop on the desktop in 2018. The 2019 version now runs on both the desktop and the iPad and produces cleaner selection edges on the mask and delivers massively faster performance (almost instantaneous), even on the iPad.
+I talked with one of our research scientists to get some insight into how it works. There’s a lot of secret sauce and crazy math to place it at the cutting edge of imaging science…but here’s a crash course: The results are driven by several Sensei AI and machine learning algorithms chained together, each optimized for different parts of the selection process. For example, one algorithm produces the selection, while another removes artifacts to make a sharp edge, etc.…you get the idea. What’s really amazing to me is that the team has tuned the performance of all the algorithms so that together they deliver a beautiful selection virtually instantaneously, with one tap.
+The team has also trained the algorithmic models using a whole lot of images. They use a diverse set of content to ensure it recognizes a wide array of objects and scenes. It doesn’t work perfectly for every possible arbitrary selection, and you will find plenty of images where it’s not the right tool to use. But the team is working to optimize it for a greater volume of scenarios and it will continuously get better. You can get an idea of the results with the examples I’ve included here, showing different types and quantities of subjects in a scene, objects with both smooth and rough edges, all on different types of backgrounds.
+Select Subject is just one of the amazing selections features we are bringing to you on the iPad and I am very excited that we have many more selections improvements in the works.
+
+Cloud documents
+Last week we began rolling out major performance improvements to the upload and download experience of cloud documents. The enhancements are already live for PSDs of 75mb and larger. Speed improvements for smaller files will ship next. Depending on the size of your file and your network performance, you can see up to 90% faster uploads and downloads with these updates.
+
+User Interface Polish
+While we are working on the big things, we are also taking in and responding to feedback from customers and polishing workflows and experiences across the application. These are often small things that have a big impact on your experience. Today we shipped a host of improvements to the user interface to make it more consistent and easier to use, along with some key usability improvements related to layer and layer adjustment controls and text entry.
+
+How to give input
+We are so happy to get Photoshop on the iPad into your hands! Your experience, feedback and point of view have always been a critical part of our process, and we take that very seriously as we chart a path forward with the iPad. Please join our community forum to give feedback on what you would like to see in the future: feedback.photoshop.com.  We look forward to your thoughts.
+
+Join us this week for a free virtual event
+Join Photographer and Multi-Media Artist Natalia Seth on Adobe Live as she combines images, applies creative coloring, and retouches her portraits in Photoshop. Plus, don’t miss the chance to see Ps on iPad’s newest feature, Select Subject in action as she shows us how it eases her workflow.
+
+Natalia is recognized world-wide for her colorful and whimsical surreal self-portraits, which you can explore on her Instagram @escapingyouth.
+
+She’ll be live with host and Adobe Evangelist Paul Trani on December 18th and 19th from 9:30 – 11:30 a.m. PT, so jump in the chat to join the conversation!
+
+Watch here.
+
+Thank you
+I am so excited to be on this journey, building Photoshop on the iPad for all of you, and once again, I want to thank all of you, our customers. Every day we are inspired by the amazing things you create with Photoshop.
